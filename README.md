@@ -17,3 +17,8 @@ API didática desenvolvida na disciplina de Programação da graduação em Sist
 ## Organização do curso
 
 O sistema será construído incrementalmente. Cada aula termina em um estado executável, registrado por um commit e, após validação, por uma tag Git no formato `aula-NN-*`.
+
+## Aprendizados da Aula 00
+
+- Git é o sistema de controle de versão utilizado para registrar e acompanhar as alterações no projeto, enquanto o GitHub é a plataforma utilizada para armazenar e compartilhar o repositório remotamente.
+- Commit registra as alterações realizadas no repositório local, enquanto push envia esses commits para o repositório remoto no GitHub.
